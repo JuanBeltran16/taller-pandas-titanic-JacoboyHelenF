@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos originales del Titanic
+data/train.csv
+data/test.csv
+data/gender_submission.csv
+
+# Archivos del sistema Mac
+.DS_Store
