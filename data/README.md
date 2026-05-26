@@ -8,9 +8,11 @@
 
 ## Objetivo
 
-Análisis exploratorio del dataset del Titanic usando Python y Pandas.
-Respondemos preguntas sobre los pasajeros, sus características y sus
-probabilidades de supervivencia.
+Explorar y analizar el dataset del Titanic mediante herramientas de 
+ciencia de datos como Python y Pandas. El proyecto busca responder 
+preguntas concretas sobre los pasajeros del Titanic, sus caracteristicas 
+demograficas y sus probabilidades de supervivencia, aplicando tecnicas 
+de analisis estadistico y visualizacion de datos.
 
 ## Estructura del proyecto
 
