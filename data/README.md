@@ -14,6 +14,13 @@ pasajeros, identificamos patrones de supervivencia y visualizamos los
 resultados con graficos. El proyecto tambien busca desarrollar habilidades 
 de trabajo colaborativo usando GitHub.
 
+## Integrantes y roles
+
+| Nombre | Rol |
+|--------|-----|
+| Juan Jacobo Beltran Navarrete | Lider de Datos y Lider de Repositorio |
+| Helen Yuliana Rueda Jimenez | Lider de Reporte |
+
 ## Estructura del proyecto
 
 taller-pandas-titanic-JacoboyHelenF/
