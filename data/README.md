@@ -14,6 +14,13 @@ preguntas concretas sobre los pasajeros del Titanic, sus caracteristicas
 demograficas y sus probabilidades de supervivencia, aplicando tecnicas 
 de analisis estadistico y visualizacion de datos.
 
+## Integrantes y roles
+
+| Nombre | Rol |
+|--------|-----|
+| Juan Jacobo Beltran Navarrete | Lider de Datos y Lider de Repositorio |
+| Helen Yuliana Rueda Jimenez | Lider de Reporte |
+
 ## Estructura del proyecto
 
 taller-pandas-titanic-JacoboyHelenF/
